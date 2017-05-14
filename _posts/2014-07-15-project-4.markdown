@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 4
+date: 2017-07-15
+img: mpu6050.png
+title: MPU6050 Experiment
+alt: image-alt
+project-date: April 2017
+client: WifiEnabler.com
+category: Accelerometer
+description: Experimentation with MPU6050 mapped using Process
+
+---
